@@ -1,2 +1,1 @@
-This is b file
-i am making changes in the b file
+My Password has been changed to **********
